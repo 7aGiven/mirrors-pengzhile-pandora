@@ -5,7 +5,7 @@
   <p align="center">
 Pandora, talking with ChatGPT in command lines, and with more surprises.
     <br />
-    <a href="./blob/master/doc/wiki.md"><strong>Wiki in 中文 »</strong></a>
+    <a href="./wiki.md"><strong>Wiki in 中文 »</strong></a>
     <br />
     <br />
     <a href="https://chat.zhile.io">Demo View</a>
@@ -134,7 +134,7 @@ These docker environment variables will override start parameters.
 
 * if you start Pandora with `-s`/`--server`/`PANDORA_SERVER`, you could access a web UI with `http://ip:port`.
 * you could switch access token by passing a different one with `http://ip:port/?token=xxx`.
-* API documents: [doc/HTTP-API.md](./blob/master/doc/HTTP-API.md)
+* API documents: [doc/HTTP-API.md](./HTTP-API.md)
 
 ## Commands 
 
