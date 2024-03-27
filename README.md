@@ -75,7 +75,7 @@
 
 ## 如何搭建运行
 
-* 访问 [doc/wiki.md](./blob/master/doc/wiki.md) 获得详细指导。
+* 访问 [doc/wiki.md](./doc/wiki.md) 获得详细指导。
 
 ## 其他说明
 
